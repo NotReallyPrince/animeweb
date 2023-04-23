@@ -1,5 +1,5 @@
 <?php 
-$conn = mysqli_connect("us-cdbr-east-06.cleardb.net", 'bddf96e15698ff' , '4426620d', "heroku_eb34d2ea13fb380");
+$conn = mysqli_connect("us-cdbr-east-06.cleardb.net", 'bc2b9f882f2522' , 'da03bd55', "heroku_106bd544e10aea7");
 
 
 $websiteTitle = "AniKatsu"; // Website Name
