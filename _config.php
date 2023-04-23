@@ -1,5 +1,5 @@
 <?php 
-$conn = mysqli_connect("jelani.db.elephantsql.com", 'ukqemsps' , 'FUBx_L2bBIVNvaNW6wTLLswvTqQ29OWM', "ukqemsps") or die("Connection fail");
+$conn = mysqli_connect("jelani.db.elephantsql.com", 'ukqemsps' , 'FUBx_L2bBIVNvaNW6wTLLswvTqQ29OWM', "ukqemsps");
 
 
 $websiteTitle = "AniKatsu"; // Website Name
